@@ -1,4 +1,4 @@
-module github.com/neural-pulse/sh-sniffer
+module github.com/neural-pulse/rodney
 
 go 1.22.0
 
